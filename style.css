@@ -1,0 +1,94 @@
+
+body {
+    font-family: roboto, sans-serif;
+    background-color: #ECECEC;
+}
+
+.section-tittle {
+    font-family: pacifico, cursive;
+    color: #020101;
+    
+}
+
+
+
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+
+.navbar {
+
+    background-color: #221F1F;
+    
+    
+}
+
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #020101;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.text-colored {
+    color: #a14014;
+}
+
+.sobre-restaurante {
+    background-color: #ECECEC;
+    color: #4D4D4D;
+    padding-top: 100px;
+    
+}
+
+
+
+.nav-cardapio .nav-link {
+    background-color: #f8f9fa; /* Cor de fundo padrão */
+    color: #4D4D4D; /* Cor do texto */
+    border-radius: 5px;
+    border: 1px solid #ddd; /* Borda leve */
+    margin-bottom: 10px;
+}
+
+
+/* Estilo para quando a aba está ativa */
+.nav-cardapio .nav-link.active {
+    background-color: #221F1F; /* Cor de fundo ativa */
+    color: #fff; /* Cor do texto ativo */
+    border-color: #221F1F; /* Cor da borda ativa */
+}
+
+.button-form {
+    background-color: #221F1F;
+    color: #fff;
+}
+
+
+.button-form:hover {
+    background-color: #221F1F;
+    color: #fff;
+}
+
+
+.social-links li {
+
+    list-style: none;
+    display: inline;
+
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.social-links i {
+    color: #020101;
+}
